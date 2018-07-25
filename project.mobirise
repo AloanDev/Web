@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aloan",
-    "currentPage": "ilustraciones.html",
+    "currentPage": "Inicio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -47,10 +47,11 @@
     "screenshot": "screenshot.png",
     "siteUrl": "http://www.aloan.ml",
     "sitemapSwitcherAuto": "",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsText": "google-site-verification=cM7ercHW1_UpjEVtTUNkmx3wi6dquRY4m_9gIZ3Sflg\n\n\n",
     "robotsSwitcher": "on",
     "sitemapSwitcher": "on",
-    "google-analytics": "<!-- Etiqueta global de sitio (gtag.js) de Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'GA_TRACKING_ID');\r\n</script>"
+    "google-analytics": "<!-- Etiqueta global de sitio (gtag.js) de Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'GA_TRACKING_ID');\r\n</script>",
+    "global-footer": "<meta name=\"google-site-verification\" content=\"cM7ercHW1_UpjEVtTUNkmx3wi6dquRY4m_9gIZ3Sflg\" />"
   },
   "pages": {
     "Inicio.html": {
