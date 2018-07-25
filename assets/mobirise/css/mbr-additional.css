@@ -6448,6 +6448,15 @@ body {
     padding-top: 3rem;
   }
 }
+.cid-qYhHtBcR1q .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-qYhHtBcR1q .media-container-row .mbr-figure {
+    padding-left: 0;
+    padding-right: 4rem;
+  }
+}
 .cid-qYhHtBcR1q .mbr-text,
 .cid-qYhHtBcR1q .mbr-section-btn {
   color: #767676;
