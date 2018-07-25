@@ -50,8 +50,8 @@
     "robotsText": "google-site-verification=cM7ercHW1_UpjEVtTUNkmx3wi6dquRY4m_9gIZ3Sflg\n\n\n",
     "robotsSwitcher": "on",
     "sitemapSwitcher": "on",
-    "google-analytics": "<!-- Etiqueta global de sitio (gtag.js) de Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'GA_TRACKING_ID');\r\n</script>",
-    "global-footer": "<meta name=\"google-site-verification\" content=\"cM7ercHW1_UpjEVtTUNkmx3wi6dquRY4m_9gIZ3Sflg\" />"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-122815842-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-122815842-1');\r\n</script>",
+    "global-footer": "<!-- Etiqueta global de sitio (gtag.js) de Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'GA_TRACKING_ID');\r\n</script>"
   },
   "pages": {
     "Inicio.html": {
