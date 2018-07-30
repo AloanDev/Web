@@ -1,2 +1,2 @@
 
-www.aloan.ml
+www.aloan.ml/inicio.html
