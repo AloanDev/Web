@@ -46,7 +46,7 @@
     "noImageResize": "",
     "screenshot": "screenshot.png",
     "siteUrl": "http://www.aloan.ml",
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
     "sitemapSwitcher": "on",
