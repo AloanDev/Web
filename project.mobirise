@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aloan Blog Personal",
-    "currentPage": "proyectos.html",
+    "currentPage": "ilustraciones.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,7 +40,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 221,
+    "uniqCompNum": 225,
     "versionPublish": "4.8.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-3-128x128-1.png",
     "noImageResize": "",
@@ -10540,6 +10540,19 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/seat-ibiza-1918x1080.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/seat-ibiza-1918x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Escribir subtítulo aquí",
+                "active": false
+              },
+              {
+                "tags": "Creativa",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/cvcreativo-1-800x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cvcreativo-1-800x2000-800x2000.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
