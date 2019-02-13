@@ -42,7 +42,7 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 204,
     "versionPublish": "4.8.8",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-2-0000-capa-2-128x128-1.png",
     "noImageResize": "",
     "screenshot": "screenshot.png",
     "siteUrl": "http://www.aloan.ml",
