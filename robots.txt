@@ -1,3 +1,2 @@
-google-site-verification=cM7ercHW1_UpjEVtTUNkmx3wi6dquRY4m_9gIZ3Sflg
-
-
+User-agent: *
+Disallow: /cgi-bin
