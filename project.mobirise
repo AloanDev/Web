@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aloan",
-    "currentPage": "ilustraciones.html",
+    "currentPage": "inicio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,7 +40,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 216,
+    "uniqCompNum": 204,
     "versionPublish": "4.10.7",
     "favicon": "@PROJECT_PATH@/assets/images/logo-3-128x128-1.ico",
     "noImageResize": "true",
