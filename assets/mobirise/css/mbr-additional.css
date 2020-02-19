@@ -3176,13 +3176,13 @@ body {
 .cid-qXGsNWoCBG {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/mbr.jpg");
 }
 .cid-qXGsNWoCBG .title {
   margin-bottom: 2rem;
 }
 .cid-qXGsNWoCBG .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-qXGsNWoCBG a:not([href]):not([tabindex]) {
   color: #fff;
@@ -3199,6 +3199,9 @@ body {
 .cid-qXGsNWoCBG .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qXGsNWoCBG H2 {
+  color: #232323;
 }
 .cid-qXGsPadpL9 {
   padding-top: 90px;
