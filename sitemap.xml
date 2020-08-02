@@ -1,11 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://www.aloan.ml/FookinCookin.html</loc>
-	</url>
-	<url>
-		<loc>http://www.aloan.ml/Ilustraciones.html</loc>
-	</url>
-	<url>
 		<loc>http://www.aloan.ml/AnimacionyModelado.html</loc>
 	</url>
 	<url>
@@ -31,5 +25,11 @@
 	</url>
 	<url>
 		<loc>http://www.aloan.ml/index.html</loc>
+	</url>
+	<url>
+		<loc>http://www.aloan.ml/Ilustraciones.html</loc>
+	</url>
+	<url>
+		<loc>http://www.aloan.ml/FookinCookin.html</loc>
 	</url>
 </urlset>
