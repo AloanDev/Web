@@ -15,9 +15,6 @@
 		<loc>http://www.aloan.ml/Contacto.html</loc>
 	</url>
 	<url>
-		<loc>http://www.aloan.ml/Info.html</loc>
-	</url>
-	<url>
 		<loc>http://www.aloan.ml/Proyectos.html</loc>
 	</url>
 	<url>
@@ -34,5 +31,8 @@
 	</url>
 	<url>
 		<loc>http://www.aloan.ml/page11.html</loc>
+	</url>
+	<url>
+		<loc>http://www.aloan.ml/SmurfsBubbleShooterStory.html</loc>
 	</url>
 </urlset>
