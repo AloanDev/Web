@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Aloan",
-    "currentPage": "inicio.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -77,7 +77,7 @@
       "underlineLink": true,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "mbrsiteDomain": "8wtru59kec"
   },
   "pages": {
@@ -12090,7 +12090,7 @@
         }
       ]
     },
-    "inicio.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "AloanDev",
