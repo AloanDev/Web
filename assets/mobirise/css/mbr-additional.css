@@ -1,9 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
-
-
-
-
-
 body {
   font-family: Rubik;
 }
@@ -16,7 +10,7 @@ body {
   font-size: 6.72rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 3rem;
   font-display: swap;
 }
@@ -9747,7 +9741,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/mbr-1920x1276.jpg");
+  background-image: url("../../../assets/images/img-20201122-191421-2000x917.jpg");
 }
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
@@ -9756,7 +9750,7 @@ section.lazy-placeholder:after {
 }
 .cid-qTkA127IK8 H1 {
   text-align: center;
-  color: #f9f9f9;
+  color: #ffffff;
 }
 .cid-qXtWaDI4zf .mbr-media span {
   font-size: 48px;
